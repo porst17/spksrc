@@ -1,5 +1,5 @@
 PKG_NAME = sparsebundlefs
-PKG_VERS = 288f5187b759186bc9bc2aefd2dedc18bfd519ca
+PKG_VERS = 1e4f85f13e8aa3d6d1aa5007814cb252b09475c6
 PKG_EXT = tar.gz
 PKG_DIST_NAME = $(PKG_VERS).$(PKG_EXT)
 PKG_DIST_SITE = https://github.com/porst17/sparsebundlefs/archive/
